@@ -1,5 +1,5 @@
 body{
-  font-family: 'Merriweather Sans', sans-serif;
+
 }
 
 #buttonOne{
@@ -14,4 +14,8 @@ body{
 
 #buttonOne:hover{
   transform:scale(1.1);
+}
+
+.fa-6{
+  font-size: 7em !important;
 }

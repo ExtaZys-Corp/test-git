@@ -1,3 +1,16 @@
 body{
   font-family: 'Merriweather Sans', sans-serif;
 }
+
+#buttonOne{
+  padding: 10px;
+  font-size: 1em;
+  background: orangered;
+  border: 0px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#buttonOne:hover{
+  transform:scale(1.1);
+}

@@ -1,0 +1,17 @@
+commit 4cde0bac4c8f846fb5389c959718612a947a7c75
+Author: extazys <ignacio.ainolrivera@gmail.com>
+Date:   Wed May 25 10:35:02 2016 -0300
+
+    Test for journey in the time
+
+commit 784eb7729433c1971f7b17d852632c4bb2939f11
+Author: extazys <ignacio.ainolrivera@gmail.com>
+Date:   Wed May 25 10:27:57 2016 -0300
+
+    Add style to page
+
+commit 8c8d94929835cc58f942adf0c9e0f7bf37bc5e7c
+Author: extazys <ignacio.ainolrivera@gmail.com>
+Date:   Wed May 25 10:25:43 2016 -0300
+
+    Starting

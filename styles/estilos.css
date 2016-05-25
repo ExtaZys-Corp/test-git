@@ -1,5 +1,6 @@
 body{
   font-family: 'Merriweather Sans', sans-serif;
+  text-transform: uppercase;
 }
 
 #buttonOne{
@@ -9,6 +10,7 @@ body{
   border: 0px;
   cursor: pointer;
   transition: 0.3s;
+  letter-spacing: 5px;
 }
 
 #buttonOne:hover{

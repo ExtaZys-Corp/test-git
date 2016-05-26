@@ -5,8 +5,8 @@ body{
 #buttonOne{
   padding: 10px;
   font-size: 1em;
-  background: orangered;
-  border: 0px;
+  background: green;
+  border: 3px solid gray;
   cursor: pointer;
   transition: 0.3s;
   letter-spacing: 5px;
